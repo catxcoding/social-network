@@ -47,14 +47,25 @@ To get this project up and running on your local machine, follow these steps:
 
 Once the server is up and running, you can use an API client like Insomnia or Postman to test the endpoints. 
 
-```markdown
-📽️ Walkthrough Video
+## 📽️ Walkthrough Video
 
 Check out the walkthrough video to see the API in action, demonstrating all the functionalities mentioned above.
 [Walkthrough Video](https://vimeo.com/929378806?share=copy)
 
+## 📄 Resources
+## Resources
 
-📄 License
+This project was made possible with the help of several resources, tutorials, and tools. A big thank you to the creators and maintainers of these resources:
+
+- [MongoDB Documentation](https://docs.mongodb.com/)
+- [Mongoose Documentation](https://mongoosejs.com/docs/guide.html)
+- [Express.js Documentation](https://expressjs.com/en/starter/installing.html)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Insomnia REST Client](https://insomnia.rest/)
+- [Stack Overflow](https://stackoverflow.com/)
+
+
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-```
